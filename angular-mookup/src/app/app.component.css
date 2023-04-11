@@ -1,0 +1,52 @@
+/* :root{
+    --bs-body-font-family: 'Inter', sans-serif ;
+} */
+.main{
+    max-width: 865px;
+    width: 100% ;
+}
+.card-body-margin
+{
+   
+    margin-left:40px;
+}
+.card-custom-title{
+    color: #284B80;
+    font-size: 32px;
+    
+
+}
+.card-body-desp{
+    color: #8D98AA;
+    font-size: 20px;
+}
+.card-col-heading{
+    color:#8D98AA;
+   font-size: 16px;
+}
+.card-col-text{
+ color:#284B80;
+ font-size: 28px;
+}
+.btn-follow{
+    --bs-btn-font-weight:600;
+    --bs-btn-color:#ffffff;
+    --bs-btn-bg: #1DC6BB;
+    --bs-btn-border-radius: 8px;
+    --bs-btn-border-color: black;
+    --bs-btn-hover-color:gray;
+    border:0;
+}
+.card-content{
+    background: #F7F9FF;
+}
+.btn-connect{
+    --bs-btn-font-weight:600;
+    --bs-btn-color:#1DC6BB;
+   
+    --bs-btn-border-radius: 8px;
+
+    --bs-btn-hover-color:gray;
+    border:1px solid #1DC6BB;
+
+}
